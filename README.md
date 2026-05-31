@@ -171,7 +171,7 @@ Environmental regimes help characterize distinct wildfire ignition environments 
 ### Explainability
 
 <p align="center">
-  <img src="figures/feature_importance.png" width="800">
+  <img src="explainability.jpg" width="800">
 </p>
 
 Feature importance analysis provides insight into the key drivers of wildfire ignition.
