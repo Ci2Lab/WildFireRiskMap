@@ -171,7 +171,7 @@ Environmental regimes help characterize distinct wildfire ignition environments 
 ### Explainability
 
 <p align="center">
-  <img src="explainability.jpg" width="800">
+  <img src="explainablity.jpg" width="800">
 </p>
 
 Feature importance analysis provides insight into the key drivers of wildfire ignition.
@@ -183,7 +183,7 @@ Feature importance analysis provides insight into the key drivers of wildfire ig
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/HybridEO-FireMAP.git
+git clone https://github.com/abdulhanan-AI4EO/HybridEO-FireMAP.git
 cd HybridEO-FireMAP
 ```
 
@@ -195,27 +195,6 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
-
-### Feature Extraction
-
-```bash
-python scripts/feature_extraction/extract_embeddings.py
-```
-
-### Model Training
-
-```bash
-python scripts/training/train_models.py
-```
-
-### Generate Wildfire Risk Maps
-
-```bash
-python scripts/risk_mapping/generate_risk_map.py
-```
-
----
 
 ## Citation
 
